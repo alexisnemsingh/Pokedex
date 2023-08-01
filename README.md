@@ -1,4 +1,4 @@
-This is a simple web application that recreates the Pokédex from the Pokémon games. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+This is a simple web application that recreates the Pokédex from the Pokémon games. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/), and uses the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
 
 ## Link
 
