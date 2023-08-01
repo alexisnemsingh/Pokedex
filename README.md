@@ -8,3 +8,7 @@ https://pokedex-app-rose.vercel.app/
 - Search for Pokémon by name
 - Outputs official artwork of the Pokémon
 - Displays the Pokémon's stats
+
+## Bugs
+- No proper error handling for when the Pokémon is not found
+- No complete mobile support
